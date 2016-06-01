@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+#canvas {
+  cursor: crosshair;
+  height: 50vh;
+  background-color: lightgray;
+}
+
+.dot {
+  position: absolute;
+  background-color: blue;
+  height: 10px;
+  width: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+}
